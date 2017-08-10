@@ -1,6 +1,7 @@
 # **Problems Related to Lists in Python **
+* Designed by [Mukesh Dubey](https://github.com/MukeshDubey1420)
 
-## Dear Students, these `_Python Programming Language Interview Questions_` have been designed _specially for u_ to get you acquainted with the nature of questions you may encounter during your interview for the subject of Python Programming Language.
+## Dear Students, these `Python Programming Language Interview Questions` have been designed _specially for u_ to get you acquainted with the nature of questions you may encounter during your interview for the subject of Python Programming Language.
 
 
 * ### What is Python?
@@ -8,12 +9,6 @@
 * ### Name some of the features of Python.
 
 * ### What is the purpose of PYTHONPATH environment variable?
-
-* ### What is the purpose of PYTHONSTARTUP environment variable?
-
-* ### What is the purpose of PYTHONCASEOK environment variable?
-
-* ### What is the purpose of PYTHONHOME environment variable?
 
 * ### Is python a case sensitive language?
 
