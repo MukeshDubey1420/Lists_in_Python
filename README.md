@@ -3,6 +3,8 @@
 
 ## Dear Students, these `Python Programming Language Interview Questions` have been designed _specially for u_ to get you acquainted with the nature of questions you may encounter during your interview for the subject of Python Programming Language.
 
+* `Note:-` **_The Following Questions Covers the concepts which are discussed in class. You all students have to submit it as a assignment for ur practice._**
+
 
 * ### What is Python?
 
