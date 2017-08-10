@@ -112,8 +112,6 @@
 
 * ### How will you check in a string that all characters are in uppercase?
 
-* ### How will you merge elements in a sequence?
-
 * ### How will you get the length of the string?
 
 * ### How will you convert a string to all lowercase?
